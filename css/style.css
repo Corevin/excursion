@@ -1,20 +1,33 @@
-body
-{
+body{
     background-color: black;
+    text-align: center;
+    font-family: Verdana;
 }
 
-.title
-{
-  font-family: Verdana;
+.title{
+
   font-weight: normal;
   font-size: 50px;
-  text-align: center;
   color: white;
 }
-.link
-{
-  color: aquamarine;
-  text-align: center;
-  font-size: 16px;
 
+.link{
+  font-size: 16px;
+  color: aquamarine;
+}
+
+.subtitle {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.littletext{
+  font-size: 21px;
+  color: gray;
+}
+
+.copyright{
+  text-align: right;
+  color:gray
 }
